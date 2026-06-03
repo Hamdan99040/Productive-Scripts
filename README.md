@@ -9,3 +9,6 @@ This project demonstrates how to solve a real-world file automation problem usin
 ## How to Run
 - To run the PowerShell version: `node powershell/rename_salary_files.ps1`
 - To run the JavaScript version: `node javascript/rename_salary_files.js`
+
+
+I uses these files on .xlsx file type , you can use on your needs
